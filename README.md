@@ -1,3 +1,3 @@
 # queues-poc
 
-* Ensure bring up q-web microservice first for echanges, queues, and bindings configuration. 
+* Ensure bring up q-web microservice first for exchanges, queues, and bindings configuration. 
