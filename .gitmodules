@@ -1,0 +1,9 @@
+[submodule "q-bank"]
+	path = q-bank
+	url = https://github.com/franbusleiman/q-bank
+[submodule "q-wallet"]
+	path = q-wallet
+	url = https://github.com/franbusleiman/q-wallet
+[submodule "q-web"]
+	path = q-web
+	url = https://github.com/franbusleiman/q-web
